@@ -1,1 +1,13 @@
 test comment line
+
+ git config --global user.email "yourGitHub@email.com"
+   git config --global user.name "yourGitHubusername"
+
+  - git init
+  - git status
+  - git add
+  - git commit -m “…..”
+  - git remote add origin https://github.com/RaghavAutomation/R...​
+  - git push -u origin master
+  - git log
+  - git —help
